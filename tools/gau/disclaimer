@@ -1,0 +1,9 @@
+the code i m submitting detects:
+1) English word
+2) Numbers in word (there must be space b/w each word such as 'one thousand six')
+3) Punctuation as special characters
+4) Numbers
+5) Date
+6) Devnagari words
+7) few colours(such as red, yellow, green etc)
+8) Licence plate number (in format : ga 09 f 0270)
